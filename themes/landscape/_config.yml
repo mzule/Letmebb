@@ -2,6 +2,11 @@
 menu:
   Home: /
   Archives: /archives
+  ActivityRouter: http://mzule.github.io/ActivityRouter
+  EasyAdapter: http://mzule.github.io/EasyAdapter
+  Github: http://github.com/mzule
+  Weibo: http://weibo.com/mzule
+  About: /about/
 rss: /atom.xml
 
 # Content
