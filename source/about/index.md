@@ -8,9 +8,9 @@ tags:
 
 混迹的魔都的 `Android工程师`，对技术很感兴趣，略懂 `后端` 、`网页` 和 `iOS`，也会一点 `Photoshop` ，喜欢帅气的产品，对细节有高的追求。
 
+![](http://7sbl54.com1.z0.glb.clouddn.com/blog_QQ20160412-2.jpg)
+
 目前就职于 `百度` ，老东家有 `新蛋网` 和 `布丁动画`。
-
-
 
 ``` java
 public static Human aboutMe() {
